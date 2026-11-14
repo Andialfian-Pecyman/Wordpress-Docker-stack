@@ -13,7 +13,7 @@ Sebelum melakukan deploy pastikan untuk setup berikut ini sudah ada dan pastikan
 ---
 
 ## 📁 struktur file
-'''your-wordpress-folder
+```your-wordpress-folder
 ├── docker-compose.yaml
 ├── html/
 │   └── myweb
